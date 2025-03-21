@@ -37,8 +37,9 @@ node spamtarget.js
 - Hanya untuk website phising/scammer/penipuan.
 - Penyalahgunaan script ini dapat melanggar hukum, dan developer tidak bertanggung jawab atas tindakan yang dilakukan oleh pengguna.
 
-## 📞 Kontak
-Jika ada pertanyaan atau saran, silakan hubungi:
-📧 [itsmezykuan@gmail.com](mailto:itsmezykuan@gmail.com)  
-📷 [Instagram: @zuanxfnd](https://www.instagram.com/zuanxfnd) 
+## 📞 Kontak  
+Jika ada pertanyaan atau saran, silakan hubungi:  
+
+[![Email](https://img.shields.io/badge/Email-itsmezykuan%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:itsmezykuan@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40zuanxfnd-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/zuanxfnd)  
 
